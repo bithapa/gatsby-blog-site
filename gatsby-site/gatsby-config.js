@@ -9,7 +9,7 @@ module.exports = {
   /* Your site config here */
 
   siteMetadata: {
-    title: `Bikash Thapa's F**king Website!`,
+    title: `BIKASH THAPA`,
     author: 'Bikash Thapa Magar'
   },
   plugins: [

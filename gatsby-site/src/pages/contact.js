@@ -7,8 +7,8 @@ const ContactPage = () => {
 	return(
 		<Layout>
 			<Head title="Contact"/>
-			<h2>Contact Bikash</h2>
-			<p>Please reach out to me via email: bikashthapa.np@gmail.com</p>
+			<h2>Contact Me</h2>
+			<p>Email: bikashthapa.np@gmail.com</p>
 		</Layout>
 		)
 }
