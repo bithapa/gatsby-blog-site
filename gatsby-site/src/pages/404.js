@@ -9,7 +9,7 @@ const notFound = () => {
         <Layout>
             <Head title="404: Not Found"/>
             <h1>
-                Daumn! You went to a non-existent page.
+                404: Daumn! You went to a non-existent page.
             </h1>
             <p>
                 Click <Link to="/">here</Link> to go to home!
