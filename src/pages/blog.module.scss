@@ -1,0 +1,32 @@
+.posts {
+    list-style-type: none; // removes the numbers in the ordered list
+    margin: 0;
+}
+
+.post {
+    // to put some space between our posts
+    margin: 1rem 0; // 1rem on top and bottom and 0 on left and right
+
+    // since we also want to customize the post link
+    a {
+        background: #f4f4f4;
+        color: #000000;
+        display: block;
+        padding: 1rem;
+        text-decoration: none;
+    }
+
+    a:hover {
+        background: #e4e4e4;
+    }
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+
+    p {
+        color: #777777;
+        font-size: .8rem;
+        font-style: italic;
+    }
+}
