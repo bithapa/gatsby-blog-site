@@ -7,9 +7,9 @@ import Head from '../components/head'
 const notFound = () => {
     return (
         <Layout>
-            <Head title="404: No Found"/>
+            <Head title="404: Not Found"/>
             <h1>
-                Page Not Found!
+                Daumn! You went to a non-existent page.
             </h1>
             <p>
                 Click <Link to="/">here</Link> to go to home!
