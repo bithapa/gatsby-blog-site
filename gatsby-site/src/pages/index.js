@@ -13,7 +13,7 @@ const IndexPage = () => {
 
             <h2>Hello!</h2>
             <h3>I am Bikash and welcome to my website!</h3>
-            <p className={indexStyles.para}>If you need a developer to build a personal/professional or any kind of website like this, then please <Link to="/contact"> contact</Link> me.</p>
+            <p className={indexStyles.para}>This website is under construction. Please visit again.</p>
             <p className={indexStyles.para}>In social Media, follow me on <a href="https://twitter.com/@bikashisbikash" target="_blank">Twitter</a>.</p>
         </Layout>
     )
